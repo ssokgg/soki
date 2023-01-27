@@ -1,1 +1,1 @@
-password= 'test'
+connection_uri=snowflake://2xxwOEE0rd2rk9k:miR4@TtH-EDdWWWRKpRmlew82J2M6lFUt.snowflakecomputing.com
